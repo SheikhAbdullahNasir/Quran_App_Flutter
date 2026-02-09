@@ -1,3 +1,3 @@
-# quran_app
+# Quran_App
 
-A new Flutter project.
+A Quran Application made on Flutter.
