@@ -1,3 +1,3 @@
-# Quran_App
+# Quran App
 
 A Quran Application made on Flutter.
