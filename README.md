@@ -1,3 +1,3 @@
 # Quran App
 
-A Quran Application made on Flutter.
+A Simple Quran Application made on Flutter with pure heart as a Hafiz e Quran myself too🤍.
